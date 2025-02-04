@@ -1,8 +1,12 @@
 # Recommender-Systems-
 This is the Recommender System Project I created to predict the items based on past user item interaction.
 Languages used:Python
+
 Libraries:Pandas and Numpy to read and manipulate the data.
 
+In today's world the recommendations are made to people like on platforms like amazon, netflix, online websites etc based on their previous interactions, based on this I have used three approaches to predict the items using some trained models and make some prediction, it is a full fledge project which helps in understanding of various recommendation algorithms and  machine learning models.
+
+Working Flow.
 
 Implement all methods in the Recommender class found in recommender.py. The class will take 3 csv file paths in its constructor. The files will contain rows of items, users, events.
 
